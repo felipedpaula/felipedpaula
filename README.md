@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Felipe e sou desenvolvedor Web
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c8ed1cc3203c8793202549?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c8ed1cc3203c8793202549?variant=dark)](https://roadmap.sh)
 
 <!--
 **felipedpaula/felipedpaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
