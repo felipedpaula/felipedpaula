@@ -27,7 +27,7 @@
 
 ## Resumo
 
-- +X anos em desenvolvimento de software e automacao.
+- +6 anos em desenvolvimento de software e automacao.
 - Entrega de projetos end-to-end com foco em qualidade, performance e escalabilidade.
 - Experiencia com IA aplicada, de prototipos a produtos em producao.
 
@@ -41,26 +41,26 @@
 
 ## Contato
 
-- Email: seu.email@exemplo.com
-- LinkedIn: https://www.linkedin.com/in/seu-usuario
-- GitHub: https://github.com/seu-usuario
-- Cidade/Estado: Sua Cidade, UF
+- Email: felipeppdevl@gmail.com
+- LinkedIn: https://www.linkedin.com/in/felipe-de-paula-palmeira-633a87142/
+- GitHub: https://github.com/felipedpaula
+- Cidade/Estado: Goiânia, GO
 
 ---
 
 ## Atuacao
 
 - Desenvolvedor full cycle na Rede Omnia, atuando em requisitos, arquitetura, front-end, back-end, testes, implantacao, monitoramento e suporte.
-- Engenheiro de automacao de processos, desenvolvendo e integrando sistemas para orquestrar fluxos de trabalho e reduzir erros.
-- Empreendedor @ Endereco Online, com projeto de lancamento em 2026 de uma empresa focada em IA e solucoes digitais next-gen.
+- Engenheiro de automacao de processos no SICOOB, desenvolvendo e integrando sistemas para orquestrar fluxos de trabalho e reduzir erros.
+- Empreendedor @ Endereco Online, com projeto de lançamento em 2026 de uma empresa focada em IA e solucoes digitais next-gen.
 
 ---
 
 ## Formacao
 
-- Engenharia da Computacao pela PUC Goias.
+- Engenharia da Computação pela PUC Goiás.
 - MBA em Engenharia de Software pela Faculdade Metropolitana.
-- Tecnologo em Inteligencia Artificial e Big Data pela PUC Goias.
+- Tecnólogo em Inteligencia Artificial e Big Data pela PUC Goiás.
 
 ---
 
@@ -109,14 +109,14 @@ Escala de 0 a 10.
 ## Competencias comportamentais
 
 - Proatividade para resolver problemas e buscar novos aprendizados.
-- Boa comunicacao com a equipe.
-- Boa compreensao de burocracia e hierarquia organizacional.
+- Boa comunicação com a equipe.
+- Boa compreensão de burocracia e hierarquia organizacional.
 - Bom relacionamento social.
 
 ---
 
 <div align="center">
 
-**"Construo solucoes com visao de produto, engenharia solida e foco em resultado."**
+**"Construo soluções com visão de produto, engenharia sólida e foco em resultado."**
 
 </div>
