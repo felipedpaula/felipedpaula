@@ -2,65 +2,65 @@
 
 # Felipe de Paula Palmeira
 
-**Full Cycle | Automacao de Processos | IA aplicada**
+**Full Cycle | Automação de Processos | IA aplicada**
 
-![Stack](https://img.shields.io/badge/stack-full%20cycle%20%7C%20ia%20%7C%20automacao-111827)
-![Localizacao](https://img.shields.io/badge/localizacao-Goiania%2C%20GO-475569)
-![Foco](https://img.shields.io/badge/foco-arquitetura%20%7C%20entrega%20%7C%20operacao-0f172a)
+![Stack](https://img.shields.io/badge/stack-full%20cycle%20%7C%20ia%20%7C%20automa%C3%A7%C3%A3o-111827)
+![Localização](https://img.shields.io/badge/localização-Goi%C3%A2nia%2C%20GO-475569)
+![Foco](https://img.shields.io/badge/foco-arquitetura%20%7C%20entrega%20%7C%20opera%C3%A7%C3%A3o-0f172a)
 
 </div>
 
 ---
 
-> **Visao geral:** desenvolvimento de software de ponta a ponta, com foco em arquitetura, automacao e produtos baseados em IA. Da estrategia a entrega com qualidade, observabilidade e impacto no negocio.
+> **Visão geral:** desenvolvimento de software de ponta a ponta, com foco em arquitetura, automação e produtos baseados em IA. Da estratégia a entrega com qualidade, observabilidade e impacto no negócio.
 
-## Indice
+## Índice
 
 - Resumo
 - Contato
-- Atuacao
-- Formacao
+- Atuação
+- Formação
 - Tecnologias e habilidades
-- Competencias comportamentais
+- Competências comportamentais
 
 ---
 
 ## Resumo
 
-- +6 anos em desenvolvimento de software e automacao.
+- +6 anos em desenvolvimento de software e automação.
 - Entrega de projetos end-to-end com foco em qualidade, performance e escalabilidade.
-- Experiencia com IA aplicada, de prototipos a produtos em producao.
+- Experiência com IA aplicada, de protótipos a produtos em produção.
 
-### Destaques rapidos
+### Destaques rápidos
 
-| Area | Foco atual |
+| Área | Foco atual |
 | --- | --- |
-| Arquitetura | Sistemas escalaveis e integracoes |
-| Produto | Descoberta, entrega e iteracao |
-| IA aplicada | Automacao, visao computacional, OCR |
+| Arquitetura | Sistemas escaláveis e integrações |
+| Produto | Descoberta, entrega e iteração |
+| IA aplicada | Automação, visão computacional, OCR |
 
 ## Contato
 
-- Email: felipeppdevl@gmail.com
+- Email: felipeppdev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/felipe-de-paula-palmeira-633a87142/
 - GitHub: https://github.com/felipedpaula
 - Cidade/Estado: Goiânia, GO
 
 ---
 
-## Atuacao
+## Atuação
 
-- Desenvolvedor full cycle na Rede Omnia, atuando em requisitos, arquitetura, front-end, back-end, testes, implantacao, monitoramento e suporte.
-- Engenheiro de automacao de processos no SICOOB, desenvolvendo e integrando sistemas para orquestrar fluxos de trabalho e reduzir erros.
-- Empreendedor @ Endereco Online, com projeto de lançamento em 2026 de uma empresa focada em IA e solucoes digitais next-gen.
+- Desenvolvedor full cycle na Rede Omnia, atuando em requisitos, arquitetura, front-end, back-end, testes, implantação, monitoramento e suporte.
+- Engenheiro de automação de processos no SICOOB, desenvolvendo e integrando sistemas para orquestrar fluxos de trabalho e reduzir erros.
+- Empreendedor @ Endereço Online, com projeto de lançamento em 2026 de uma empresa focada em IA e soluções digitais next-gen.
 
 ---
 
-## Formacao
+## Formação
 
 - Engenharia da Computação pela PUC Goiás.
 - MBA em Engenharia de Software pela Faculdade Metropolitana.
-- Tecnólogo em Inteligencia Artificial e Big Data pela PUC Goiás.
+- Tecnólogo em Inteligência Artificial e Big Data pela PUC Goiás.
 
 ---
 
@@ -79,7 +79,7 @@ Escala de 0 a 10.
 ![SQL](https://img.shields.io/badge/SQL-8-111827)
 ![Node.js](https://img.shields.io/badge/Node.js-5-111827)
 
-| Area | Nivel |
+| Área | Nível |
 | --- | --- |
 | JavaScript | 8 |
 | Node.js | 5 |
@@ -88,7 +88,7 @@ Escala de 0 a 10.
 | PHP | 8 |
 | Laravel | 9 |
 | SQL (relacional) | 8 |
-| NoSQL (nao relacional) | 8 |
+| NoSQL (não relacional) | 8 |
 | Docker | 7 |
 | HTML5 | 9 |
 | CSS3 | 9 |
@@ -98,15 +98,15 @@ Escala de 0 a 10.
 | n8n | 6 |
 | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Selenium, OpenCV, Tesseract OCR, TensorFlow, Roboflow) | 7 |
 | Machine Learning supervisionado | 6 |
-| Arvores de decisao | 6 |
+| Árvores de decisão | 6 |
 | Random Forest | 6 |
-| Visao computacional | 7 |
+| Visão computacional | 7 |
 | OCR | 8 |
-| Uso de IA como pair programming (agentes, LLMs, MCPs, TDD assistido, revisao adversaria, ADRs) | 8 |
+| Uso de IA como pair programming (agentes, LLMs, MCPs, TDD assistido, revisão adversária, ADRs) | 8 |
 
 ---
 
-## Competencias comportamentais
+## Competências comportamentais
 
 - Proatividade para resolver problemas e buscar novos aprendizados.
 - Boa comunicação com a equipe.
