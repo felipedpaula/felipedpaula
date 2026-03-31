@@ -6,6 +6,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-felipedpaula-181717?logo=github&logoColor=white)](https://github.com/felipedpaula)
 [![Email](https://img.shields.io/badge/Email-felipeppdev%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:felipeppdev@gmail.com)
 ![Localização](https://img.shields.io/badge/Goiânia%2C%20GO-475569)
+[![CV PT](https://img.shields.io/badge/CV-Português-475569?logo=adobeacrobatreader&logoColor=white)](./docs/Felipe_Palmeira_CV_2026_PT.pdf)
+[![CV EN](https://img.shields.io/badge/CV-English-475569?logo=adobeacrobatreader&logoColor=white)](./docs/Felipe_Palmeira_CV_2026_EN.pdf)
 
 ---
 
@@ -32,22 +34,22 @@ Arquitetura de aplicações web, APIs RESTful, desenvolvimento front-end e back-
 
 ## Experiência profissional
 
-**Arquiteto de Automação — SICOOB** · desde out/2025
-Desenvolvimento e evolução de automações e integrações entre sistemas, com foco em eficiência operacional. Implementação de integrações com APIs e ferramentas corporativas, estruturação de rotinas de coleta, processamento e distribuição de dados, e orquestração de automações com foco em escalabilidade e rastreabilidade.
-
 **Analista e Desenvolvedor de Sistemas — Rede Omnia** · desde ago/2021
 Desenvolvimento e manutenção de aplicações web com integração de soluções de inteligência artificial (IA generativa e LLMs). Criação de APIs de autenticação e controle de conteúdo, processamento e estruturação de dados para aplicações orientadas a IA, automação de workflows e monitoramento de servidor interno com rotinas de backup e pipelines de dados.
 
 **Desenvolvedor Full Stack — WebÔwat** · 2024 (freelance internacional)
 Desenvolvimento de microserviços em JavaScript para a plataforma RegiÔtels, com foco em dashboards analíticos e visualização de dados.
 
+**Arquiteto de Automação — SICOOB** · desde out/2025
+Desenvolvimento e evolução de automações e integrações entre sistemas, com foco em eficiência operacional. Implementação de integrações com APIs e ferramentas corporativas, estruturação de rotinas de coleta, processamento e distribuição de dados, e orquestração de automações com foco em escalabilidade e rastreabilidade.
+
 ---
 
 ## Formação
 
-- **Tecnólogo em Inteligência Artificial e Big Data** — PUC Goiás
-- **MBA em Engenharia de Software** — Faculdade Metropolitana
 - **Engenharia da Computação** — PUC Goiás
+- **MBA em Engenharia de Software** — Faculdade Metropolitana
+- **Tecnólogo em Inteligência Artificial e Big Data** — PUC Goiás
 
 ---
 
