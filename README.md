@@ -1,122 +1,107 @@
-<div align="center">
-
 # Felipe de Paula Palmeira
 
-**Full Cycle | Automação de Processos | IA aplicada**
+**Engenheiro de Software · Integrações com IA · Automação de Processos · Integração de Dados**
 
-![Stack](https://img.shields.io/badge/stack-full%20cycle%20%7C%20ia%20%7C%20automa%C3%A7%C3%A3o-111827)
-![Localização](https://img.shields.io/badge/localização-Goi%C3%A2nia%2C%20GO-475569)
-![Foco](https://img.shields.io/badge/foco-arquitetura%20%7C%20entrega%20%7C%20opera%C3%A7%C3%A3o-0f172a)
-
-</div>
-
----
-
-> **Visão geral:** desenvolvimento de software de ponta a ponta, com foco em arquitetura, automação e produtos baseados em IA. Da estratégia a entrega com qualidade, observabilidade e impacto no negócio.
-
-## Índice
-
-- Resumo
-- Contato
-- Atuação
-- Formação
-- Tecnologias e habilidades
-- Competências comportamentais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Palmeira-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-paula-palmeira-633a87142/)
+[![GitHub](https://img.shields.io/badge/GitHub-felipedpaula-181717?logo=github&logoColor=white)](https://github.com/felipedpaula)
+[![Email](https://img.shields.io/badge/Email-felipeppdev%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:felipeppdev@gmail.com)
+![Localização](https://img.shields.io/badge/Goiânia%2C%20GO-475569)
 
 ---
 
-## Resumo
+## Sobre
 
-- +6 anos em desenvolvimento de software e automação.
-- Entrega de projetos end-to-end com foco em qualidade, performance e escalabilidade.
-- Experiência com IA aplicada, de protótipos a produtos em produção.
+Engenheiro de software com mais de 6 anos de experiência em integrações com inteligência artificial, automação de processos e integração de dados entre sistemas. Atuo na construção de soluções com LLMs (OpenAI, Gemini), criação e orquestração de agentes inteligentes, RAG, embeddings, prompt engineering e automação de fluxos operacionais — do levantamento técnico à operação em produção.
 
-### Destaques rápidos
-
-| Área | Foco atual |
-| --- | --- |
-| Arquitetura | Sistemas escaláveis e integrações |
-| Produto | Descoberta, entrega e iteração |
-| IA aplicada | Automação, visão computacional, OCR |
-
-## Contato
-
-- Email: felipeppdev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/felipe-de-paula-palmeira-633a87142/
-- GitHub: https://github.com/felipedpaula
-- Cidade/Estado: Goiânia, GO
+Como diferencial, trabalho full stack (Python, PHP/Laravel, JavaScript/React/Node), conectando backend, frontend, APIs, bancos de dados e automações para entregar soluções integradas em diferentes contextos de negócio.
 
 ---
 
-## Atuação
+## Áreas de atuação
 
-- Desenvolvedor full cycle na Rede Omnia, atuando em requisitos, arquitetura, front-end, back-end, testes, implantação, monitoramento e suporte.
-- Engenheiro de automação de processos no SICOOB, desenvolvendo e integrando sistemas para orquestrar fluxos de trabalho e reduzir erros.
-- Empreendedor @ Endereço Online, com projeto de lançamento em 2026 de uma empresa focada em IA e soluções digitais next-gen.
+**Integrações com IA e agentes inteligentes**
+Integração com APIs de LLMs (OpenAI, Gemini), criação e orquestração de agentes inteligentes, RAG, embeddings, prompt engineering, classificação e análise de texto, geração automatizada de conteúdo e aplicações orientadas a dados com IA.
+
+**Automação de processos e integração de dados**
+Orquestração de fluxos de trabalho, integração entre sistemas e APIs, automação com Python, e uso de plataformas como n8n, LangChain, Kestra, UiPath e Camunda. Rotinas de coleta, processamento, validação e distribuição de dados entre sistemas.
+
+**Engenharia de software**
+Arquitetura de aplicações web, APIs RESTful, desenvolvimento front-end e back-end, containerização com Docker e uso de IA como ferramenta de engenharia (agentes, LLMs, MCPs, TDD assistido, revisão adversária). Experiência adicional em visão computacional (OpenCV, Roboflow) e OCR.
+
+---
+
+## Experiência profissional
+
+**Arquiteto de Automação — SICOOB** · desde out/2025
+Desenvolvimento e evolução de automações e integrações entre sistemas, com foco em eficiência operacional. Implementação de integrações com APIs e ferramentas corporativas, estruturação de rotinas de coleta, processamento e distribuição de dados, e orquestração de automações com foco em escalabilidade e rastreabilidade.
+
+**Analista e Desenvolvedor de Sistemas — Rede Omnia** · desde ago/2021
+Desenvolvimento e manutenção de aplicações web com integração de soluções de inteligência artificial (IA generativa e LLMs). Criação de APIs de autenticação e controle de conteúdo, processamento e estruturação de dados para aplicações orientadas a IA, automação de workflows e monitoramento de servidor interno com rotinas de backup e pipelines de dados.
+
+**Desenvolvedor Full Stack — WebÔwat** · 2024 (freelance internacional)
+Desenvolvimento de microserviços em JavaScript para a plataforma RegiÔtels, com foco em dashboards analíticos e visualização de dados.
 
 ---
 
 ## Formação
 
-- Engenharia da Computação pela PUC Goiás.
-- MBA em Engenharia de Software pela Faculdade Metropolitana.
-- Tecnólogo em Inteligência Artificial e Big Data pela PUC Goiás.
+- **Tecnólogo em Inteligência Artificial e Big Data** — PUC Goiás
+- **MBA em Engenharia de Software** — Faculdade Metropolitana
+- **Engenharia da Computação** — PUC Goiás
 
 ---
 
-## Tecnologias e habilidades
+## Tecnologias
 
-Escala de 0 a 10.
+**IA, LLMs e agentes**
 
-**Stack principal**
+![Python](https://img.shields.io/badge/Python-111827?logo=python&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-111827?logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-111827?logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-111827)
+![RAG](https://img.shields.io/badge/RAG-111827)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827)
+![NLP](https://img.shields.io/badge/NLP-111827)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111827?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111827?logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?logo=opencv&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-111827)
 
-![Python](https://img.shields.io/badge/Python-7-111827)
-![PHP](https://img.shields.io/badge/PHP-8-111827)
-![Laravel](https://img.shields.io/badge/Laravel-9-111827)
-![JavaScript](https://img.shields.io/badge/JavaScript-8-111827)
-![React](https://img.shields.io/badge/React-7-111827)
-![Docker](https://img.shields.io/badge/Docker-7-111827)
-![SQL](https://img.shields.io/badge/SQL-8-111827)
-![Node.js](https://img.shields.io/badge/Node.js-5-111827)
+**Automação e RPA**
 
-| Área | Nível |
-| --- | --- |
-| JavaScript | 8 |
-| Node.js | 5 |
-| React | 7 |
-| React Native | 5 |
-| PHP | 8 |
-| Laravel | 9 |
-| SQL (relacional) | 8 |
-| NoSQL (não relacional) | 8 |
-| Docker | 7 |
-| HTML5 | 9 |
-| CSS3 | 9 |
-| Bootstrap | 6 |
-| Tailwind | 5 |
-| WordPress | 5 |
-| n8n | 6 |
-| Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Selenium, OpenCV, Tesseract OCR, TensorFlow, Roboflow) | 7 |
-| Machine Learning supervisionado | 6 |
-| Árvores de decisão | 6 |
-| Random Forest | 6 |
-| Visão computacional | 7 |
-| OCR | 8 |
-| Uso de IA como pair programming (agentes, LLMs, MCPs, TDD assistido, revisão adversária, ADRs) | 8 |
+![n8n](https://img.shields.io/badge/n8n-111827?logo=n8n&logoColor=white)
+![Kestra](https://img.shields.io/badge/Kestra-111827)
+![UiPath](https://img.shields.io/badge/UiPath-111827)
+![Camunda](https://img.shields.io/badge/Camunda-111827)
+![Selenium](https://img.shields.io/badge/Selenium-111827?logo=selenium&logoColor=white)
 
----
+**Desenvolvimento**
 
-## Competências comportamentais
+![PHP](https://img.shields.io/badge/PHP-111827?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-111827?logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-111827?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?logo=nodedotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-111827)
+![HTML5](https://img.shields.io/badge/HTML5-111827?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111827?logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-111827?logo=tailwindcss&logoColor=white)
 
-- Proatividade para resolver problemas e buscar novos aprendizados.
-- Boa comunicação com a equipe.
-- Boa compreensão de burocracia e hierarquia organizacional.
-- Bom relacionamento social.
+**Infraestrutura e DevOps**
 
----
+![Docker](https://img.shields.io/badge/Docker-111827?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-111827?logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-111827?logo=googlecloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-111827?logo=nginx&logoColor=white)
 
-<div align="center">
+**Bancos de dados e APIs**
 
-**"Construo soluções com visão de produto, engenharia sólida e foco em resultado."**
-
-</div>
+![SQL](https://img.shields.io/badge/SQL-111827)
+![NoSQL](https://img.shields.io/badge/NoSQL-111827)
+![Redis](https://img.shields.io/badge/Redis-111827?logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-111827?logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-111827?logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-111827)
