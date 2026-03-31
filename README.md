@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Engenheiro de software com mais de 6 anos de experiência em integrações com inteligência artificial, automação de processos e integração de dados entre sistemas. Atuo na construção de soluções com LLMs (OpenAI, Gemini), criação e orquestração de agentes inteligentes, RAG, embeddings, prompt engineering e automação de fluxos operacionais — do levantamento técnico à operação em produção.
+Engenheiro de software com mais de 6 anos de experiência em integrações com inteligência artificial, automação de processos e integração de dados entre sistemas. Atuo na construção de soluções com LLMs, criação e orquestração de agentes inteligentes, RAG, embeddings, prompt engineering e automação de fluxos operacionais — do levantamento técnico à operação em produção.
 
 Como diferencial, trabalho full stack (Python, PHP/Laravel, JavaScript/React/Node), conectando backend, frontend, APIs, bancos de dados e automações para entregar soluções integradas em diferentes contextos de negócio.
 
@@ -21,14 +21,14 @@ Como diferencial, trabalho full stack (Python, PHP/Laravel, JavaScript/React/Nod
 
 ## Áreas de atuação
 
+**Engenharia de software**
+Arquitetura de aplicações web, APIs RESTful, desenvolvimento front-end e back-end, containerização com Docker e uso de IA como ferramenta de engenharia (agentes, LLMs, MCPs, TDD assistido, revisão adversária). Prática de Spec-Driven Development (SDD) — definição de especificações técnicas antes da implementação, garantindo alinhamento, rastreabilidade e qualidade desde o início do ciclo de desenvolvimento. Experiência adicional em visão computacional (OpenCV, Roboflow) e OCR.
+
 **Integrações com IA e agentes inteligentes**
-Integração com APIs de LLMs (OpenAI, Gemini), criação e orquestração de agentes inteligentes, RAG, embeddings, prompt engineering, classificação e análise de texto, geração automatizada de conteúdo e aplicações orientadas a dados com IA.
+Integração com APIs de LLMs, criação e orquestração de agentes inteligentes, RAG, embeddings, prompt engineering, classificação e análise de texto, geração automatizada de conteúdo e aplicações orientadas a dados com IA.
 
 **Automação de processos e integração de dados**
 Orquestração de fluxos de trabalho, integração entre sistemas e APIs, automação com Python, e uso de plataformas como n8n, LangChain, Kestra, UiPath e Camunda. Rotinas de coleta, processamento, validação e distribuição de dados entre sistemas.
-
-**Engenharia de software**
-Arquitetura de aplicações web, APIs RESTful, desenvolvimento front-end e back-end, containerização com Docker e uso de IA como ferramenta de engenharia (agentes, LLMs, MCPs, TDD assistido, revisão adversária). Experiência adicional em visão computacional (OpenCV, Roboflow) e OCR.
 
 ---
 
@@ -90,6 +90,7 @@ Desenvolvimento e evolução de automações e integrações entre sistemas, com
 ![HTML5](https://img.shields.io/badge/HTML5-111827?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-111827?logo=tailwindcss&logoColor=white)
+![SDD](https://img.shields.io/badge/Spec--Driven%20Development-111827)
 
 **Infraestrutura e DevOps**
 
